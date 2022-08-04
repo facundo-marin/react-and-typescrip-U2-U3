@@ -1,5 +1,4 @@
 import { Component } from 'react';
-import { render } from '@testing-library/react';
 
 interface User {
   name: string;
